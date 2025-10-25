@@ -455,9 +455,9 @@
         "image": "https:\/\/raw.githubusercontent.com\/Nereziel\/cs2-WeaponPaints\/main\/website\/img\/skins\/weapon_deagle-1318.png",
         "paint_name": "Desert Eagle | Mulberry",
         "legacy_model": false,
-        "threejsmodel": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/refs\/heads\/master\/src\/%5Bmodels%5D\/weapon_deagle.glb",
-        "texture": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/refs\/heads\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_1318.png",
-        "texture_metal": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/refs\/heads\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_1318_metal.png"
+        "threejsmodel": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/master\/src\/%5Bmodels%5D\/weapon_deagle.glb",
+        "texture": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_1318.png",
+        "texture_metal": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_1318_metal.png"
     },
     {
         "weapon_defindex": 2,
