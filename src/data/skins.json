@@ -379,8 +379,8 @@
         "paint_name": "Desert Eagle | Printstream",
         "legacy_model": true,
         "threejsmodel": "https:\/\/raw.githubusercontent.com\/LielXD\/CS2-WeaponPaints-Website\/refs\/heads\/main\/src\/%5Bmodels%5D\/weapon_deagle.glb",
-        "texture": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_1006.png",
-        "texture_metal": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_1006_metal.png"
+        "texture": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_962.png",
+        "texture_metal": "https:\/\/raw.githubusercontent.com\/zennjii\/CS2-WeaponPaints-Website\/master\/src\/%5Btextures%5D\/weapon_deagle\/weapon_deagle_962_metal.png"
     },
     {
         "weapon_defindex": 1,
